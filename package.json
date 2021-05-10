@@ -1,22 +1,16 @@
 {
-  "name": "free-code-camp-assignment",
-  "version": "1.0.0",
-  "description": "repo for assignments",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sharmankita/free-code-camp-assignment.git"
-  },
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
   "author": "Ankita Sharma",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sharmankita/free-code-camp-assignment/issues"
-  },
-  "homepage": "https://github.com/sharmankita/free-code-camp-assignment#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "keywords": ["freecodecamp" , "microservices"],
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
