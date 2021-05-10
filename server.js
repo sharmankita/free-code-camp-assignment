@@ -52,8 +52,8 @@ app.use(function(err, req, res, next) {
       .send(err.message || 'SERVER ERROR');
   }  
 })
-
-app.listen(4000, function () {
-  console.log('Node.js listening ...');
+const port = process.env.PORT || 4000
+app.listen(port, function () {
+  console.log('Node.js listening om...' , port);
 });
 
