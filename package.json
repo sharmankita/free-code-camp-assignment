@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/sharmankita/free-code-camp-assignment#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
   },
   "keywords": [
     "freecodecamp",
