@@ -53,7 +53,7 @@ app.use(function(err, req, res, next) {
   }  
 })
 
-app.listen(process.env.PORT, function () {
+app.listen(4000, function () {
   console.log('Node.js listening ...');
 });
 
