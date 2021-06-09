@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/sharmankita/free-code-camp-assignment#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
   },
   "keywords": [
     "freecodecamp",
